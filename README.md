@@ -1,4 +1,4 @@
-# Lab 01: Microsoft Azure — Hardened Ubuntu & Nginx Web Server
+# Lab 01: Azure Cloud Infrastructure — Linux VM Deployment, Security Hardening & Governance
 
 ![Azure](https://img.shields.io/badge/Azure-For%20Students-0078D4?logo=microsoftazure&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04%20LTS-E95420?logo=ubuntu&logoColor=white)
